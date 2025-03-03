@@ -1,0 +1,8 @@
+1D/data/**
+2D/data/**
+.conda/**
+*.arff
+*.ts
+*.txt
+*.png
+*.jpg
