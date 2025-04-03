@@ -1,8 +1,6 @@
-1D/data/**
-2D/data/**
+2D/gifs/**
 .conda/**
 *.arff
 *.ts
-*.txt
 *.png
 *.jpg
