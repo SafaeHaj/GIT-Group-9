@@ -1,4 +1,5 @@
 2D/gifs/**
+2D/notebook_env.db
 .conda/**
 *.arff
 *.ts
