@@ -8,3 +8,4 @@ kagglehub
 seaborn
 nxcurve
 umap-learn
+jse
