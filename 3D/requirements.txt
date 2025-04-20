@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+transforms3d
+MoCapLib
+opencv-python
+ipython
+ipywidgets
+matplotlib
+ipympl
