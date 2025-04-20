@@ -1,7 +1,5 @@
+1D/data/**
 2D/gifs/**
-2D/notebook_env.db
+3D/data/** 
+
 .conda/**
-*.arff
-*.ts
-*.png
-*.jpg
