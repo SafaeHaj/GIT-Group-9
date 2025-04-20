@@ -1,4 +1,4 @@
-"# GIT-Group-9: Signal Visualization Project" 
+# GIT-Group-9: Signal Visualization Project
 
 ## Overview
 
