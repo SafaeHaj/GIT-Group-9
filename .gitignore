@@ -1,5 +1,7 @@
-1D/data/**
-2D/gifs/**
-3D/data/** 
+assignment_1/1D/data/**
+assignment_1/2D/gifs/**
+assignment_1/3D/data/** 
+
+assignment_2/data/tomato_dataset/** 
 
 .conda/**
