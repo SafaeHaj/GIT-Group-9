@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains our complete group submission for the **Assignment 1** and **Assignment 1** of the **Graphics and Interactive Techniques 1** module. 
+This repository contains our complete group submission for the **Assignment 1** and **Assignment 2** of the **Graphics and Interactive Techniques 1** module. 
 
 The implementation is based on Python, using notebooks and interactive visualizations. Each section addresses the respective analytical questions from the assignment and includes well-documented code and structured markdowns.
 
